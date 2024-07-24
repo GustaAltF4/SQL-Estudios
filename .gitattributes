@@ -1,0 +1,2 @@
+*.java linguist-language=SQL
+*.py linguist-language=SQL
